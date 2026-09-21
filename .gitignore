@@ -1,0 +1,10 @@
+# Secrets and local configuration
+.env
+
+# Generated when the project runs
+munder_difflin.db
+__pycache__/
+*.pyc
+
+# Office lock files
+~$*
