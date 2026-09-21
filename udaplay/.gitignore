@@ -1,0 +1,22 @@
+# Secrets
+.env
+config.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local vector databases (rebuilt from games/ on first run)
+chromadb/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
